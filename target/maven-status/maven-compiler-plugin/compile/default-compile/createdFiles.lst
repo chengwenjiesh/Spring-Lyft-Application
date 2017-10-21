@@ -1,0 +1,4 @@
+com/demo/springmvc/controller/HelloWorldRestController.class
+com/demo/springmvc/domain/Message.class
+com/demo/springmvc/configuration/HelloWorldConfiguration.class
+com/demo/springmvc/HelloWorldInitializer.class
